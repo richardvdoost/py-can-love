@@ -1,3 +1,3 @@
 # py-can-love
 
-TODO
+Draw a pink heart with random lines 🥰
